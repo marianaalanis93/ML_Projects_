@@ -16,27 +16,65 @@ This is a compilation of ML projects, most kaggle competitions
   * Heart: https://www.kaggle.com/ronitf/heart-disease-uci
       * 13 Features
       * target: 1 or 0 
-  * Kidney Disease
+  * Kidney Disease: https://www.kaggle.com/mansoordaku/ckdisease
       * 25 Features
       * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-* Regression
-  * 
-  * 
-  * 
-  * 
-  * 
+* Regression: A regression problem is when the output variable is a real or continuous value, such as “salary” or “weight”
+  * AirBnB NYC
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * Avocado prices
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * Bitcoin Cash Price
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * House price
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * Women Shoes Prices
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
 * Recommendation
-  * 
-  * 
-  * 
-  * 
-  * 
+  * AirBnB NYC
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * Avocado prices
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * Bitcoin Cash Price
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * House price
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * Women Shoes Prices
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
 * Unsupervised
-  * 
-  * 
-  * 
-  * 
-  * 
+  * AirBnB NYC
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * Avocado prices
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * Bitcoin Cash Price
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * House price
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * Women Shoes Prices
+      * 25 Features
+      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  
+* Others with text (NLP)
+  * Tweets: https://www.kaggle.com/c/nlp-getting-started/data
+      * 4 Features
+      * target - in train.csv only, this denotes whether a tweet is about a real disaster (1) or not (0)
+  * Youtube: https://www.kaggle.com/datasnaek/youtube-new
+      * 16 Features
+      * 21 files for analysing sentiments
 
 
 
