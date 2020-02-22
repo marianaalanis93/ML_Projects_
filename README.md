@@ -3,7 +3,7 @@ This is a compilation of ML projects, most kaggle competitions
 
 ### Folder structure
 
-* **Classification: is where you have input variables (x) and an output variable (Y) and you use an algorithm to learn the mapping function from the input to the output Y = f(X) **
+* **Classification: is where you have input variables (x) and an output variable (Y) and you use an algorithm to learn the mapping function from the input to the output Y = f(X)**
   * Breast cancer: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data#data.csv
       * 31 Features
       * diagnosis - The diagnosis of breast tissues (M = malignant, B = benign)
@@ -19,7 +19,7 @@ This is a compilation of ML projects, most kaggle competitions
   * Kidney Disease: https://www.kaggle.com/mansoordaku/ckdisease
       * 25 Features
       * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-* **Regression: A regression problem is when the output variable is a real or continuous value, such as “salary” or “weight” **
+* **Regression: A regression problem is when the output variable is a real or continuous value, such as “salary” or “weight”**
   * AirBnB NYC: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
       * 16 Features
       * Target -  price in dollars
@@ -53,21 +53,21 @@ This is a compilation of ML projects, most kaggle competitions
       * Target - Rating : A stringified dictionary of the various ratings given to the talk (inspiring, fascinating, jaw dropping, etc.)
   
 * **Unsupervised: is the training of machine using information that is neither classified nor labeled and allowing the algorithm to act on that information without guidance.**
-  * AirBnB NYC
-      * 25 Features
-      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-  * Avocado prices
-      * 25 Features
-      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-  * Bitcoin Cash Price
-      * 25 Features
-      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-  * House price
-      * 25 Features
-      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-  * Women Shoes Prices
-      * 25 Features
-      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
+  * College: https://www.kaggle.com/flyingwombat/us-news-and-world-reports-college-data#College.csv
+      * 19 Features
+      * No Target but it needs:  Cluster private information
+  * Department of justice (json): https://www.kaggle.com/jbencina/department-of-justice-20092018-press-releases/
+      * 6 Features
+      * No Target but it needs: What words tend occur frequently together?
+  * Credit card fraud detection: https://www.kaggle.com/arjunbhasin2013/ccdata#CC%20GENERAL.csv
+      * 18 Features
+      * No Target but it needs: Fraud or not
+  * Wines: https://www.kaggle.com/akram24/wine-pca
+      * 14 Features
+      * No Target but it needs: Cluster types of wines
+  * World happiness: https://www.kaggle.com/unsdsn/world-happiness
+      * 12 Features
+      * No Target but it needs: happiness or not
   
 * **Others with text (NLP): NLP is like learning the language of your own mind! **
   * Tweets: https://www.kaggle.com/c/nlp-getting-started/data
