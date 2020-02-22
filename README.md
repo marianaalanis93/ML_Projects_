@@ -69,7 +69,7 @@ This is a compilation of ML projects, most kaggle competitions
       * 12 Features
       * No Target but it needs: happiness or not
   
-* **Others with text (NLP): NLP is like learning the language of your own mind! **
+* **Others with text (NLP): NLP is like learning the language of your own mind!**
   * Tweets: https://www.kaggle.com/c/nlp-getting-started/data
       * 4 Features
       * target - in train.csv only, this denotes whether a tweet is about a real disaster (1) or not (0)
