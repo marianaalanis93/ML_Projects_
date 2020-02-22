@@ -3,7 +3,7 @@ This is a compilation of ML projects, most kaggle competitions
 
 ### Folder structure
 
-* **Classification: is where you have input variables (x) and an output variable (Y) and you use an algorithm to learn the mapping function from the input to the output Y = f(X) 
+* **Classification: is where you have input variables (x) and an output variable (Y) and you use an algorithm to learn the mapping function from the input to the output Y = f(X) **
   * Breast cancer: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data#data.csv
       * 31 Features
       * diagnosis - The diagnosis of breast tissues (M = malignant, B = benign)
@@ -19,7 +19,7 @@ This is a compilation of ML projects, most kaggle competitions
   * Kidney Disease: https://www.kaggle.com/mansoordaku/ckdisease
       * 25 Features
       * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-* **Regression: A regression problem is when the output variable is a real or continuous value, such as “salary” or “weight”
+* **Regression: A regression problem is when the output variable is a real or continuous value, such as “salary” or “weight” **
   * AirBnB NYC: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
       * 16 Features
       * Target -  price in dollars
@@ -35,23 +35,24 @@ This is a compilation of ML projects, most kaggle competitions
   * Women Shoes Prices: https://www.kaggle.com/datafiniti/womens-shoes-prices
       * 50 Features
       * Target -  Prices amount min and Prices amount max
-* **Recommendation
-  * AirBnB NYC
-      * 25 Features
-      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-  * Avocado prices
-      * 25 Features
-      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-  * Bitcoin Cash Price
-      * 25 Features
-      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-  * House price
-      * 25 Features
-      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-  * Women Shoes Prices
-      * 25 Features
-      * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
-* **Unsupervised
+* **Recommendation: is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give to an item. They are primarily used in commercial applications.**
+  * Retailrocket : https://www.kaggle.com/retailrocket/ecommerce-dataset
+      * 10 Features (4 files)
+      * Target -  value: property value of the item
+  * Netflix movies: https://www.kaggle.com/shivamb/netflix-shows
+      * 12 Features
+      * Target -  rating. TV Rating of the movie / show 
+  * Movielens: https://www.kaggle.com/grouplens/movielens-20m-dataset#rating.csv
+      * 6 Features
+      * Target -  movie ratings
+  * Amazon Product Reviews: https://www.kaggle.com/saurav9786/amazon-product-reviews#ratings_Electronics%20(1).csv
+      * 3 Features
+      * Target - Rating :Rating of the corresponding product by the corresponding user
+  * TED Talks: https://www.kaggle.com/rounakbanik/ted-talks
+      * 16 Features
+      * Target - Rating : A stringified dictionary of the various ratings given to the talk (inspiring, fascinating, jaw dropping, etc.)
+  
+* **Unsupervised: is the training of machine using information that is neither classified nor labeled and allowing the algorithm to act on that information without guidance.**
   * AirBnB NYC
       * 25 Features
       * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
@@ -68,16 +69,16 @@ This is a compilation of ML projects, most kaggle competitions
       * 25 Features
       * Target -  'ckd' or 'notckd' - ckd=chronic kidney disease.
   
-* **Others with text (NLP)
+* **Others with text (NLP): NLP is like learning the language of your own mind! **
   * Tweets: https://www.kaggle.com/c/nlp-getting-started/data
       * 4 Features
       * target - in train.csv only, this denotes whether a tweet is about a real disaster (1) or not (0)
   * Youtube: https://www.kaggle.com/datasnaek/youtube-new
       * 16 Features
       * 21 files for analysing sentiments
-
-
-
+  * Seattle hotel: https://github.com/0x6f736f646f/Seattle-Hotel-recommendation/blob/master/Data/Seattle_Hotels.csv
+      * 3 Features
+      * Target -  desc
 
 ## Authors
 
